@@ -5,7 +5,8 @@ Olá, me chamo brunopython
  - 🤔 Estou procurando ajuda com python
 
 
- - ![image](https://github.com/user-attachments/assets/1a17c5bd-c71c-4bbe-ace4-7788ec464e87)
+
+![imagem15](https://github.com/user-attachments/assets/129933b7-1c06-482c-9ef4-3171cddff697)
 
 
 
